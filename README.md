@@ -8,7 +8,7 @@
   <tr>
     <td>
       <p>- 🔭 I’m currently working on <b> a way to integrate software engineering into Civil Engineering and even more</b></p>
-      <p>- 🌱 I’m currently a <b>Civil Engineering</b> student.</p>
+      <p>- 🌱 I’m a current <b>BCA</b> student at <b>IGNOU</b>.</p>
       <p>- 💬 Ask me about <b>Anything in my stack</b></p>
       <p>- 📫 How to reach me: <b><a href=mailto: mjdederi01@gmail.com alt=email>mjdederi01@gmail.com</a></b></p>
       <p>- ⚡ Fun fact: <b>I'm a current student of ALX Software Engineering Programme (cohort 10)</b></p>
