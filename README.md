@@ -1,5 +1,5 @@
 <!--![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)-->
-![MDederi_banner](prhead.jpg)
+<!--  ![MDederi_banner](prhead.jpg) -->
 <h1 align="center">Hi <img src="https://github.com/TheBubble01/TheBubble01/blob/main/wave.gif" width="30px">, I'm Mubarak Dederi</h1>
 <h3 align="center">A passionate Software Engineering aspirant from Nigeria</h3>
 <!--<img align= "right" alt="Coding" width="375" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">-->
@@ -8,7 +8,7 @@
   <tr>
     <td>
       <p>- 🔭 I’m currently working on <b> a way to integrate software engineering into Civil Engineering and even more</b></p>
-      <p>- 🌱 I’m a current <b>BCA</b> student at <b>IGNOU</b>.</p>
+      <p>- 🌱 I’m a current <b>Civil Engineering</b> student at <b>ABU Zaria</b>.</p>
       <p>- 💬 Ask me about <b>Anything in my stack</b></p>
       <p>- 📫 How to reach me: <b><a href=mailto: mjdederi01@gmail.com alt=email>mjdederi01@gmail.com</a></b></p>
       <p>- ⚡ Fun fact: <b>I'm a current student of ALX Software Engineering Programme (cohort 10)</b></p>
